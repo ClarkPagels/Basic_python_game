@@ -1,0 +1,101 @@
+{
+"basic_colors":
+[
+  "black",
+"brown",
+"yellow",
+"white",
+"grey"
+"hazel"
+],
+"standard_colors":[
+  "black",
+  "brown",
+  "yellow",
+  "white",
+  "orange",
+  "purple",
+  "red",
+  "green",
+  "blue",
+  "grey"
+]
+,
+
+"complex_colors":
+[
+  "Alizarin",
+  "Amber",
+  "Amethyst",
+  "Apricot",
+  "Auburn",
+  "Azure",
+  "Beige",
+  "Bistre",
+  "Black",
+   "Blue",
+  "Blue_Green",
+  "Blue_Violet",
+   " Brass",
+  "Bronze"	 ,
+  "Brown",
+  "Buff",
+  "Burgundy",
+  "Burnt_Orange",
+  "Carrot_orange"
+  "Charcoal",
+  "Chestnut",
+  "Chocolate",
+  "Cinnamon",
+  "Cobalt",
+  "Copper",
+  "Coral"	,
+  "Corn",
+  "Cornflower"
+  "Cream",
+  "Crimson",
+  "Dandelion",
+  "Denim",
+  "Emerald",
+  "Gold",
+  "Green",
+  "Grey",
+  "Indigo"
+  "Ivory",
+  "Jade",
+  "Khaki",
+  "Lemon",
+  "Lime",
+  "Misty_rose",
+  "Moss_green"
+  "Mustard",
+  "Myrtle",
+   "Navy_Blue",
+  "Olive",
+  "Olivine"
+  "Orange",
+  "Peach",
+  "Pear",
+  "Pine_Green",
+  "Red",
+  "Rose",
+  "Ruby",
+  "Rust",
+  "Sandy brown",
+  "Sapphire",
+  "Scarlet",
+  "Sea_Green",
+  "Seashell",
+  "Shamrock green",
+  "Silver",
+  "Spring_green"
+  "Terra_cotta",
+  "Tomato",
+  "Turquoise",
+  "Violet"
+  "White",
+
+  "Yellow",
+  "Zucchini"
+]
+}
